@@ -1,0 +1,8 @@
+<Page xmlns="http://schemas.nativescript.org/tns.xsd" loaded="pageLoaded" class="page"
+  xmlns:ui="nativescript-batch-notifications">
+  <StackLayout class="p-20">
+    <Label text="Sample text" class="t-20 text-center c-black" textWrap="true"/>
+    <Button text="Text please" tap="onTap" marginTop="20" class="btn btn-primary btn-active" textWrap="true"/>
+   <!-- <Button text="Toast please" tap="toastShow" marginTop="20" class="btn btn-primary btn-active" textWrap="true"/>-->
+  </StackLayout>
+</Page>

@@ -1,0 +1,35 @@
+{
+  "project_info": {
+    "project_number": "821429910884",
+    "firebase_url": "https://tnsdemo.firebaseio.com",
+    "project_id": "tnsdemo",
+    "storage_bucket": "tnsdemo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:821429910884:android:c9fc0c3c6a700f89",
+        "android_client_info": {
+          "package_name": "fr.yassine.demo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQivMibze0hYoTdpv9bFlghLVpdGekL1U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "821429910884-db55ef3mm7mueomlqchq72rdtmi8gv78.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
