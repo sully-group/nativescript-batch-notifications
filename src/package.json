@@ -12,7 +12,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://git.sully-group.fr/sully-group/mobile/nativescript-batch-notification"
+        "url": "https://github.com/sully-group/nativescript-batch-notifications"
     },
     "scripts": {
         "tsc": "tsc",
@@ -44,10 +44,10 @@
         "email": "yassine.alaoui@sully-group.fr"
     },
     "bugs": {
-        "url": "https://git.sully-group.fr/sully-group/mobile/nativescript-batch-notification/issues"
+        "url": "https://github.com/sully-group/nativescript-batch-notifications/issues"
     },
     "license": "MIT",
-    "homepage": "https://git.sully-group.fr/sully-group/mobile/nativescript-batch-notification",
+    "homepage": "https://www.sully-group.fr/",
     "readmeFilename": "README.md",
     "devDependencies": {
         "prompt": "^1.0.0",

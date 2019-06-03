@@ -1,6 +1,3 @@
-<img src="doc/batchLogo.png" height="100">
-<img src="doc/nativescript.png" height="100">
-
 # Nativescript Batch plugin
 
 Welcome to Batch's Nativescript Plugin!<br>
@@ -31,7 +28,7 @@ For a quick start using the demo app :
 ## How it works
 
 A picture is worth a thousand words
-![Global diagram](doc/hiw.png)
+![Global diagram](https://github.com/sully-group/nativescript-batch-notifications/blob/master/doc/hiw.png)
 
 ## Android initialization
 
