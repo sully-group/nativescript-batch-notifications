@@ -1,6 +1,6 @@
 {
     "name": "nativescript-batch-notifications",
-    "version": "0.4.3",
+    "version": "0.4.5",
     "description": "Nativescript batch plugin for notifications.",
     "main": "batch",
     "typings": "index.d.ts",
@@ -40,8 +40,8 @@
         "iOS"
     ],
     "author": {
-        "name": "Yassine Alaoui",
-        "email": "yassine.alaoui@sully-group.fr"
+        "name": "Sully Group",
+        "email": "olivier.audegond@sully-group.fr"
     },
     "bugs": {
         "url": "https://github.com/sully-group/nativescript-batch-notifications/issues"
